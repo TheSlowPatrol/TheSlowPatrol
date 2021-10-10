@@ -9,7 +9,9 @@ So you might want to go and check out the repos that we have listed.
 
 cheers!
 
-and remember - #SlowAndSteady is the best way to go about everything :D 
+
+
+ps. remember - #SlowAndSteady is the best way to go about everything :D 
 
 <!---
 TheSlowPatrol/TheSlowPatrol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
