@@ -1,5 +1,5 @@
 Hi 👋  
-We're @TheSlowPatrol.
+We're [@TheSlowPatrol](https://twitter.com/TheSlowPatrol)
 
 If you haven't heard about us - take a look about our [website](https://www.theslowpatrol.com/) or [linktree](https://linktr.ee/theslowpatrol).
 
